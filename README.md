@@ -54,13 +54,13 @@ Make sure you have **Node.js** (version 16 or higher) installed on your machine.
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/username/your-repo-name.git
+   git clone https://github.com/username/ahm4d.portofolio.git
    ```
    *(Ganti URL di atas dengan link repository GitHub kamu)*
 
 2. **Navigate to the project folder**
    ```sh
-   cd your-repo-name
+   cd ahm4d.portofolio
    ```
 
 3. **Install dependencies**
