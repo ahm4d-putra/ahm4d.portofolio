@@ -1,16 +1,11 @@
-Tentu, ini adalah file `README.md` yang lengkap dan profesional untuk project portofolio kamu. File ini mencakup deskripsi, fitur, teknologi yang digunakan, panduan instalasi, dan struktur folder.
-
-Silakan copy paste konten di bawah ini ke dalam file `README.md` di root project kamu.
-
-```markdown
-# 🚀 Ahmad Putra Ramadhan - Personal Portfolio
+🚀 Ahmad Putra Ramadhan - Personal Portfolio
 
 A modern, responsive, and minimal portfolio website built with **React**, **Vite**, and **Tailwind CSS**. This project showcases my projects, skills, and insights as a Full-Stack Engineer student.
 
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-Latest-black?logo=framer)
+[React](https://img.shields.io/badge/React-18-blue?logo=react)
+[Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
+[Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwind-css)
+[Framer Motion](https://img.shields.io/badge/Framer_Motion-Latest-black?logo=framer)
 
 ---
 
