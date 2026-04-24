@@ -17,7 +17,7 @@ A modern, responsive, and minimal portfolio website built with **React**, **Vite
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Modern UI/UX**: Clean design with Glassmorphism effects and dark mode support.
 - **Fully Responsive**: Optimized for mobile, tablet, and desktop views.
@@ -28,7 +28,7 @@ A modern, responsive, and minimal portfolio website built with **React**, **Vite
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 This project was built using these technologies:
 
@@ -40,7 +40,7 @@ This project was built using these technologies:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -96,7 +96,7 @@ public/
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 To customize this portfolio for your own use:
 
@@ -107,7 +107,7 @@ To customize this portfolio for your own use:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Ahmad Putra Ramadhan**
 
