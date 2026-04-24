@@ -111,8 +111,8 @@ To customize this portfolio for your own use:
 
 **Ahmad Putra Ramadhan**
 
-- **GitHub**: [@usernamekamu](https://github.com/usernamekamu)
-- **Instagram**: [@usernamekamu](https://instagram.com/usernamekamu)
+- **GitHub**: [@ahm4d-putra](https://github.com/ahm4d-putra
+- **Instagram**: [@ahmaddd9_](https://instagram.com/ahmaddd9_)
 
 ---
 
@@ -122,10 +122,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-### 💡 Tips untuk Memperbarui:
 
-1.  **Screenshots**: Buat folder baru bernama `screenshots` di root project, masukkan gambar homepage kamu, lalu uncomment (hapus tanda `*` dan `()`) bagian screenshots di file README ini.
-2.  **Links**: Ganti semua `usernamekamu` dengan username GitHub dan Instagram asli kamu.
-3.  **Git Clone**: Ganti URL git clone dengan URL repository GitHub project ini.
-
-Semoga README ini membantu!
