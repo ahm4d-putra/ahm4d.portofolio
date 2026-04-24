@@ -11,9 +11,9 @@ A modern, responsive, and minimal portfolio website built with **React**, **Vite
 
 ## 📸 Screenshots
 
-*(Sebaiknya tambahkan screenshot website kamu di sini. Contoh:)*
-![Homepage Screenshot](./screenshots/homepage.png) 
-> *Ganti link di atas dengan path screenshot kamu yang asli.*
+
+![Homepage Screenshot](./screenshots/ss.png) 
+
 
 ---
 
