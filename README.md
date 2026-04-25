@@ -1,6 +1,7 @@
+
 Ahmad Putra Ramadhan - Personal Portfolio
 
-A modern, responsive, and minimal portfolio website built with **React**, **Vite**, and **Tailwind CSS**. This project showcases my projects, skills, and insights as a Full-Stack Engineer student.
+A modern, responsive, and minimal portfolio website built with **React**, **Vite**, and **Tailwind CSS**. This project showcases my projects, skills, and insights as a Full-Stack Engineer student. It also includes an **Interactive Playground** to demonstrate real-time coding logic.
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-Latest-purple?logo=vite)
@@ -11,25 +12,23 @@ A modern, responsive, and minimal portfolio website built with **React**, **Vite
 
 ## 📸 Screenshots
 
-
 ![Homepage Screenshot](./screenshots/ss.png) 
 
+---
+
+## ✨ Key Features
+
+- **Modern UI/UX**: Clean design with Glassmorphism effects and dark mode support.
+- **Fully Responsive**: Optimized for mobile, tablet, and desktop views.
+- **Animated Interactions**: Smooth animations powered by Framer Motion.
+- **Dynamic Sidebar**: Mobile-friendly navigation with an animated sidebar.
+- **Interactive Playground**: Includes a built-in **Typing Speed Test** to practice coding syntax with real-time WPM and accuracy stats.
+- **SEO Optimized**: Meta tags and Open Graph tags included for better search engine visibility.
+- **Custom Icons**: Handcrafted SVG icons to reduce external dependencies.
 
 ---
 
-##  Key Features
-
-Modern UI/UX: Clean design with Glassmorphism effects and dark mode support.
-Fully Responsive: Optimized for mobile, tablet, and desktop views.
-Animated Interactions: Smooth animations powered by Framer Motion.
-Dynamic Sidebar: Mobile-friendly navigation with an animated sidebar.
-Interactive Playground: Includes a built-in Typing Speed Test to practice coding syntax with real-time WPM and accuracy stats.
-SEO Optimized: Meta tags and Open Graph tags included for better search engine visibility.
-Custom Icons: Handcrafted SVG icons to reduce external dependencies.
-
----
-
-##  Built With
+## 🛠️ Built With
 
 This project was built using these technologies:
 
@@ -41,7 +40,7 @@ This project was built using these technologies:
 
 ---
 
-##  Getting Started
+## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
@@ -57,7 +56,6 @@ Make sure you have **Node.js** (version 16 or higher) installed on your machine.
    ```sh
    git clone https://github.com/username/ahm4d.portofolio.git
    ```
-
 
 2. **Navigate to the project folder**
    ```sh
@@ -86,7 +84,7 @@ Here is the folder structure of this project:
 ```text
 src/
 ├── components/       # Reusable UI components (Button, etc)
-├── sections/         # Main sections of the page (Hero, Navbar, etc)
+├── sections/         # Main sections of the page (Hero, Navbar, Playground, etc)
 ├── App.jsx           # Main application component
 ├── main.jsx          # Entry point of the application
 └── index.css         # Global styles & Tailwind directives
@@ -97,7 +95,7 @@ public/
 
 ---
 
-##  Customization
+## 🎨 Customization
 
 To customize this portfolio for your own use:
 
@@ -108,11 +106,11 @@ To customize this portfolio for your own use:
 
 ---
 
-##  Author
+## 👤 Author
 
 **Ahmad Putra Ramadhan**
 
-- **GitHub**: [@ahm4d-putra](https://github.com/ahm4d-putra
+- **GitHub**: [@ahm4d-putra](https://github.com/ahm4d-putra)
 - **Instagram**: [@ahmaddd9_](https://instagram.com/ahmaddd9_)
 
 ---
@@ -122,5 +120,4 @@ To customize this portfolio for your own use:
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-
+```
