@@ -120,4 +120,3 @@ To customize this portfolio for your own use:
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-```
