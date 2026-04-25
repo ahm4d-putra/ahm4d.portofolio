@@ -5,7 +5,9 @@ import TechnicalInsights from "./sections/TechnicalInsights";
 import About from "./sections/About";
 import Contact from "./sections/Contact";
 import { motion } from "framer-motion";
+import Playground from "./sections/Playground";
 
+// ... (Icon Github & Instagram tetap sama) ...
 
 const GithubIcon = (props) => (
   <svg
@@ -66,6 +68,10 @@ function App() {
         <Projects />
         <TechnicalInsights />
         <About />
+
+        {/* Pindahkan Playground ke sini, sebelum Contact */}
+        <Playground />
+
         <Contact />
       </main>
 
