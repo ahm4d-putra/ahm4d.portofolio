@@ -19,12 +19,13 @@ A modern, responsive, and minimal portfolio website built with **React**, **Vite
 
 ##  Key Features
 
-- **Modern UI/UX**: Clean design with Glassmorphism effects and dark mode support.
-- **Fully Responsive**: Optimized for mobile, tablet, and desktop views.
-- **Animated Interactions**: Smooth animations powered by Framer Motion.
-- **Dynamic Sidebar**: Mobile-friendly navigation with an animated sidebar.
-- **SEO Optimized**: Meta tags and Open Graph tags included for better search engine visibility.
-- **Custom Icons**: Handcrafted SVG icons to reduce external dependencies.
+Modern UI/UX: Clean design with Glassmorphism effects and dark mode support.
+Fully Responsive: Optimized for mobile, tablet, and desktop views.
+Animated Interactions: Smooth animations powered by Framer Motion.
+Dynamic Sidebar: Mobile-friendly navigation with an animated sidebar.
+Interactive Playground: Includes a built-in Typing Speed Test to practice coding syntax with real-time WPM and accuracy stats.
+SEO Optimized: Meta tags and Open Graph tags included for better search engine visibility.
+Custom Icons: Handcrafted SVG icons to reduce external dependencies.
 
 ---
 
