@@ -56,7 +56,7 @@ Make sure you have **Node.js** (version 16 or higher) installed on your machine.
    ```sh
    git clone https://github.com/username/ahm4d.portofolio.git
    ```
-   *(Ganti URL di atas dengan link repository GitHub kamu)*
+
 
 2. **Navigate to the project folder**
    ```sh
