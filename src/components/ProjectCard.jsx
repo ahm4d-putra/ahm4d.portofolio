@@ -17,7 +17,7 @@ export default function ProjectCard({ project, index }) {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
       transition={{ duration: 0.6, delay: index * 0.1 }}
-      className="group relative flex flex-col" // Tambah flex flex-col
+      className="group relative flex flex-col"
     >
       <div className="absolute inset-0 bg-gradient-to-br from-accent/10 via-transparent to-burgundy/10 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-500 blur-xl" />
       

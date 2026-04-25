@@ -1,9 +1,8 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-// Kita hanya import Menu dan X dari lucide, karena ini pasti ada
 import { Menu, X } from "lucide-react";
 
-// --- Custom Icons (Supaya aman dari error export) ---
+
 const GithubIcon = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
