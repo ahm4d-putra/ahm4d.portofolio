@@ -6,6 +6,7 @@ import About from "./sections/About";
 import Contact from "./sections/Contact";
 import { motion } from "framer-motion";
 import Playground from "./sections/Playground";
+import { Analytics } from "@vercel/analytics/react";
 
 // Import GSAP Global
 import gsap from "gsap";
@@ -67,6 +68,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-dark">
+      <Analytics />
       <Navbar />
       <main>
         <Hero />
